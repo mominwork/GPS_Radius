@@ -1,2 +1,28 @@
-Problems: Getting started with html with javascript was new.
-etc...For more details, please refer to the email.
+/***********************************************************************/
+/*
+
+First of all, I would like to say that it was not easy to complete 
+a task using technologies in which I have little experience. But I 
+have an insatiable thirst when it comes to knowledge. Also, the extent 
+of passion that I have for programming along with reading as my favorite 
+hobby helped me a lot to complete the assignment. The problem I faced 
+at first is that google maps was a novel technology for me. It is easier 
+for me to solve problems in C++ or Java which I am familiar with. But to 
+create a complete app was difficult where designing the interface 
+andassociate the codes with it need to be done at the same place. 
+I had to learn the google map template libraries and usage of the 
+library functions. The problem I faced next was designing the interface 
+and displaying it on the screen. I had to go through several example 
+codes that were provided by google and learn the commands. Next, I 
+searched about how I can limit the results within user radius. But 
+above all, the biggest problem for me was to display place results 
+corresponding to the specific users.  I think about the solution to 
+this problem for long and finally realized that this problem can be 
+solved by using nested “for” loops. Once I have learned the logic 
+behind the solution to the problem, if was not very difficult for me 
+to implement the code. Also, I didn’t have experience in using Github. 
+I had to learn how repositories are created and how codes can be 
+uploaded to the repositories. 
+
+*/
+/***************************************************************************/
